@@ -1,0 +1,7 @@
+C:\Users\Otavio\Desktop\curso 2\Employee Payment\Employee Payment\bin\Debug\Employee Payment.exe.config
+C:\Users\Otavio\Desktop\curso 2\Employee Payment\Employee Payment\bin\Debug\Employee Payment.exe
+C:\Users\Otavio\Desktop\curso 2\Employee Payment\Employee Payment\bin\Debug\Employee Payment.pdb
+C:\Users\Otavio\Desktop\curso 2\Employee Payment\Employee Payment\obj\Debug\Employee Payment.csprojAssemblyReference.cache
+C:\Users\Otavio\Desktop\curso 2\Employee Payment\Employee Payment\obj\Debug\Employee Payment.csproj.CoreCompileInputs.cache
+C:\Users\Otavio\Desktop\curso 2\Employee Payment\Employee Payment\obj\Debug\Employee Payment.exe
+C:\Users\Otavio\Desktop\curso 2\Employee Payment\Employee Payment\obj\Debug\Employee Payment.pdb
